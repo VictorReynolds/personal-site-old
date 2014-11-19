@@ -1,0 +1,13 @@
+باب|door~اِسم|name~ما؟|what?~أهلاً بكَ|(reply to) ahlan wa sahlan (to male)~أهلاً بكِ|(reply to) ahlan wa sahlan (to female)~و عايكم السلام|(reply to) assalaamu alaykum~حَضرَتُكَ|you (polite form, to a male)~حَضرَتُكِ|you (polite form, to a female)~تَشَرَّفنا|Nice to meet you!~أَنتَ|you (masculine)~أَنتِ|you (feminine)~ي-
+
+اِسمي|my (possessive suffix)
+
+my name~كَ-
+
+اِسمُكَ|your (suffix, masculine)
+
+your name~كِ-
+
+اِسمُكِ|your (suffix, feminine)
+
+your name~أَيْنَ؟|where?~مِنْ أَينَ؟|from where?~نَعَم|yes~لا|no~

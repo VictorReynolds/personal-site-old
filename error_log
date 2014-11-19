@@ -1,0 +1,20 @@
+[12-Aug-2014 22:32:07 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:32:07 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:32:19 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:32:19 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:32:42 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:32:42 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:33:54 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:33:54 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:35:52 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:35:52 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:37:07 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:37:07 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:38:07 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:38:07 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:39:33 America/Denver] PHP Warning:  require_once(inc/simple_html_dom.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:39:33 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'inc/simple_html_dom.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabicvocab.php on line 6
+[12-Aug-2014 22:40:58 America/Denver] PHP Notice:  Undefined variable: termTotal in /home2/victotv6/public_html/arabicvocab.php on line 40
+[12-Aug-2014 22:40:58 America/Denver] PHP Notice:  Undefined variable: outputString in /home2/victotv6/public_html/arabicvocab.php on line 42
+[12-Aug-2014 22:41:58 America/Denver] PHP Notice:  Undefined variable: termTotal in /home2/victotv6/public_html/arabicvocab.php on line 60
+[12-Aug-2014 22:42:03 America/Denver] PHP Notice:  Undefined variable: termTotal in /home2/victotv6/public_html/arabicvocab.php on line 60

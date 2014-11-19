@@ -1,0 +1,96 @@
+#title_contents {
+	text-align: center;
+}
+
+#search_form {
+	width: 75%;
+	text-align: center;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#search_input {
+	width: 100%;
+	border-radius: 5px;
+	border: 0;
+	height: 30px;
+	padding: 5px;
+}
+
+#search_submit {
+	background-image: url('/arabic/dictionary/style/mag.png');
+	background-color: transparent;
+	background-size: 100%;
+	border:0;
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	right: 3px;
+	top: 3px;
+	cursor: pointer;
+}
+
+#search_results table {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	padding: 0;
+
+}
+
+#search_results table td {
+	border: 1px solid white;
+	margin: 0;
+	padding: 3px;
+	width: 50%;
+}
+
+#search_results table td div {
+	word-break: break-all;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+@media only screen and (max-width : 480px) {
+	.english-definition pre {
+		font-family: 'Oswald', sans-serif;
+		font-size: 10pt;
+	}
+
+	.arabic-definition pre {
+		font-family: 'ScheherazadeRegular', sans-serif;
+		font-weight: normal;
+		font-style: normal;
+		font-size: 15pt;
+	}
+}
+@media only screen and (min-width : 481px) {
+	.english-definition pre {
+		font-family: 'Oswald', sans-serif;
+		font-size: 20pt;
+	}
+
+	.arabic-definition pre {
+		font-family: 'ScheherazadeRegular', sans-serif;
+		font-weight: normal;
+		font-style: normal;
+		font-size: 30pt;
+	}
+}
+
+#no_results_message {
+	padding-top: 5px;
+	width: 100%;
+	text-align: center;
+}
+
+#loading_image {
+	text-align: center;
+}
+
+#loading_image img {
+	padding-top: 15px;
+	width: 32px;
+}

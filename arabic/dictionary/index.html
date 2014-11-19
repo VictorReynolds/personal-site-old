@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="dictionary">
+
+<head>
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	<title>Victor Reynolds</title>
+	<!-- <link type="text/css" rel="stylesheet" href="style.css" /> -->
+	<meta name="description" content="Simple Arabic/English dictionary." />
+	<link rel="shortcut icon" href="http://www.victorreynolds.net/favicon.ico">
+
+	<link href='http://fonts.googleapis.com/css?family=Limelight|Righteous|Roboto|Audiowide|Oswald' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/scheherazade" rel="stylesheet" type="text/css"/>
+	
+	<link rel="stylesheet" type="text/css" href="/inc/style_main.css">
+	<link rel="stylesheet" type="text/css" href="./style/dictionary.css">
+
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="js/app.js"></script>
+</head>
+
+<body>
+	<section id="wrapper_main">
+		<header id="title_contents">
+			<h1>Muntaser Arabic Dictionary</h1>
+		</header>
+		<section id="body_contents" ng-controller="ResultsController as resultsList">
+			<div id="search_form">
+				<form name="searchform" id="search" novalidate ng-submit="resultsList.findData()">
+					<input id="search_input" type="text" class="keyboardInput" placeholder="Type a term here to search, voweled or unvoweled, English or Arabic." ng-model="searchstring"/>
+					<link rel="stylesheet" type="text/css" href="./style/keyboard.css">
+					<script type="text/javascript" src="./js/keyboard.js" charset="UTF-8"></script>
+					<input id="search_submit" type="submit" value/>
+				</form>
+			</div>
+			<div id="search_results">
+				<table ng-hide="resultsLoading">
+					<tr ng-model="results" ng-repeat="result in results">
+						<td><div class="english-definition"><pre>{{ result.english }}</pre></div></td>
+						<td><div dir="rtl" class="arabic-definition"><pre>{{ result.arabic }}</pre></div></td>
+					</tr>
+				</table>
+				<div id="loading_image" ng-show="resultsLoading"><img src="./style/ajax-loader.gif"></div>
+				<div id="no_results_message" ng-show="results.length === 0 && searchedOnce === true && !resultsLoading">Sorry, there are no matching entries.</div>
+			</div>
+		</section>
+		<footer id="footer"><p>&copy; Victor Reynolds 2014</p></footer>
+	</section>
+</body>
+
+</html>

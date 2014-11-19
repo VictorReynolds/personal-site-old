@@ -1,0 +1,476 @@
+[19-Oct-2014 21:41:19 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Set WHERE title = "poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:41:28 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Set WHERE title = "poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:41:46 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Set WHERE title = "poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:41:56 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Set WHERE title = "poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:42:11 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Set WHERE title = "poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:42:12 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Set WHERE title = "poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:44:55 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Set WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:50:22 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:50:23 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:50:24 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:50:25 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:50:26 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:50:28 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:50:29 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Group WHERE title="poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:54:57 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:54:58 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:54:59 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:55:01 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 21:55:33 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"poop'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:96
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(96): PDO->query('SELECT id FROM ...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getSetIDFromName('poop')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 96
+[19-Oct-2014 22:05:56 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 106
+[19-Oct-2014 22:05:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 106
+[19-Oct-2014 22:05:59 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 106
+[19-Oct-2014 22:06:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 106
+[19-Oct-2014 22:06:03 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 106
+[19-Oct-2014 22:16:27 America/Denver] PHP Fatal error:  Call to undefined function getSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:16:28 America/Denver] PHP Fatal error:  Call to undefined function getSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:16:29 America/Denver] PHP Fatal error:  Call to undefined function getSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:17:02 America/Denver] PHP Fatal error:  Call to undefined function getOrCreateSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:17:03 America/Denver] PHP Fatal error:  Call to undefined function getOrCreateSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:17:04 America/Denver] PHP Fatal error:  Call to undefined function getOrCreateSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:17:41 America/Denver] PHP Fatal error:  Call to undefined function getOrCreateSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:17:42 America/Denver] PHP Fatal error:  Call to undefined function getOrCreateSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:18:16 America/Denver] PHP Fatal error:  Call to undefined function getOrCreateSetIDFromName() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 12
+[19-Oct-2014 22:21:59 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"fart', CURDATE())' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:107
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(107): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/import_set.php(12): getOrCreateSetID('poop', 'fart')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 22:25:03 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 114
+[19-Oct-2014 22:25:04 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 114
+[19-Oct-2014 22:25:37 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 118
+[19-Oct-2014 22:26:13 America/Denver] PHP Warning:  require_once(lib/dictionary_manager.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 4
+[19-Oct-2014 22:26:13 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'lib/dictionary_manager.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 4
+[19-Oct-2014 22:56:31 America/Denver] PHP Notice:  Undefined variable: createTermSetLink in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 179
+[19-Oct-2014 22:56:31 America/Denver] PHP Fatal error:  Function name must be a string in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 179
+[19-Oct-2014 22:57:40 America/Denver] PHP Notice:  Undefined variable: createTermSetLink in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 179
+[19-Oct-2014 22:57:40 America/Denver] PHP Fatal error:  Function name must be a string in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 179
+[19-Oct-2014 22:59:02 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) VALUES (29, 4, 0)' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:166
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(166): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(179): createTermSetLink('29', '4', 0)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 166
+[19-Oct-2014 22:59:24 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) VALUES (29, 4, 0)' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:166
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(166): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(179): createTermSetLink('29', '4', 0)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 166
+[19-Oct-2014 22:59:31 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) VALUES (29, 4, 0)' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:166
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(166): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(179): createTermSetLink('29', '4', 0)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 166
+[19-Oct-2014 22:59:32 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) VALUES (29, 4, 0)' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:166
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(166): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(179): createTermSetLink('29', '4', 0)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 166
+[19-Oct-2014 22:59:39 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) VALUES (29, 4, 0)' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:166
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(166): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(179): createTermSetLink('29', '4', 0)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 166
+[19-Oct-2014 23:02:32 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) VALUES (29, 4, 0)' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:167
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(167): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(180): createTermSetLink('29', '4', 0)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 167
+[19-Oct-2014 23:28:10 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'title="﻿Al-Kitaab Part 1"' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:101
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(101): PDO->query('SELECT id FROMC...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(175): getOrCreateGroupID('Category', '\xEF\xBB\xBFAl-Kitaab Pa...')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 101
+[19-Oct-2014 23:29:33 America/Denver] PHP Notice:  Undefined variable: setTitle in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:29:33 America/Denver] PHP Notice:  Undefined variable: setDesc in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:29:33 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'victotv6_arabic.INTOCategory' doesn't exist' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:108
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(108): PDO->exec('INSERT INTOCate...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(175): getOrCreateGroupID('Category', '\xEF\xBB\xBFAl-Kitaab Pa...')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 108
+[19-Oct-2014 23:29:56 America/Denver] PHP Notice:  Undefined variable: setTitle in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:29:56 America/Denver] PHP Notice:  Undefined variable: setDesc in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:29:56 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'victotv6_arabic.INTOCategory' doesn't exist' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:108
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(108): PDO->exec('INSERT INTOCate...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(175): getOrCreateGroupID('Category', '\xEF\xBB\xBFAl-Kitaab Pa...')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 108
+[19-Oct-2014 23:30:39 America/Denver] PHP Notice:  Undefined variable: setTitle in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:30:39 America/Denver] PHP Notice:  Undefined variable: setDesc in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:30:59 America/Denver] PHP Notice:  Undefined variable: setTitle in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:30:59 America/Denver] PHP Notice:  Undefined variable: setDesc in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:30:59 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:108
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(108): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(175): getOrCreateGroupID('Category', '\xEF\xBB\xBFAl-Kitaab Pa...')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 108
+[19-Oct-2014 23:31:02 America/Denver] PHP Notice:  Undefined variable: setTitle in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:31:02 America/Denver] PHP Notice:  Undefined variable: setDesc in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:31:02 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:108
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(108): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(175): getOrCreateGroupID('Category', '\xEF\xBB\xBFAl-Kitaab Pa...')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 108
+[19-Oct-2014 23:31:03 America/Denver] PHP Notice:  Undefined variable: setTitle in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:31:03 America/Denver] PHP Notice:  Undefined variable: setDesc in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:31:03 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:108
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(108): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(175): getOrCreateGroupID('Category', '\xEF\xBB\xBFAl-Kitaab Pa...')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 108
+[19-Oct-2014 23:31:04 America/Denver] PHP Notice:  Undefined variable: setTitle in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:31:04 America/Denver] PHP Notice:  Undefined variable: setDesc in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 107
+[19-Oct-2014 23:31:04 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:108
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(108): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(175): getOrCreateGroupID('Category', '\xEF\xBB\xBFAl-Kitaab Pa...')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(8): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 108
+[21-Oct-2014 20:56:33 America/Denver] PHP Notice:  Undefined offset: 3 in /home2/victotv6/public_html/arabic/dictionary/dictionary.php on line 29
+[21-Oct-2014 21:10:33 America/Denver] PHP Parse error:  syntax error, unexpected '$dataDir' (T_VARIABLE) in /home2/victotv6/public_html/arabic/dictionary/dataFix.php on line 4
+[21-Oct-2014 21:11:21 America/Denver] PHP Parse error:  syntax error, unexpected '$dataDir' (T_VARIABLE) in /home2/victotv6/public_html/arabic/dictionary/dataFix.php on line 4
+[21-Oct-2014 21:20:36 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[21-Oct-2014 21:20:54 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[21-Oct-2014 21:30:55 America/Denver] PHP Warning:  file_put_contents() expects at least 2 parameters, 1 given in /home2/victotv6/public_html/arabic/dictionary/dataFix.php on line 25
+[21-Oct-2014 21:31:59 America/Denver] PHP Warning:  file_put_contents() expects at least 2 parameters, 1 given in /home2/victotv6/public_html/arabic/dictionary/dataFix.php on line 25
+[21-Oct-2014 21:35:21 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[21-Oct-2014 21:49:07 America/Denver] PHP Notice:  Undefined variable: lists in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 13
+[21-Oct-2014 21:49:07 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 13
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh01.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh01.txt,/akCh01.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh02.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh02.txt,/akCh02.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh03.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh03.txt,/akCh03.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh04.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh04.txt,/akCh04.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh05.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh05.txt,/akCh05.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh06.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh06.txt,/akCh06.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh07.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh07.txt,/akCh07.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh08.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh08.txt,/akCh08.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh09.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh09.txt,/akCh09.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh10.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh10.txt,/akCh10.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh11.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh11.txt,/akCh11.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: dataDir in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 19
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  file_get_contents(/akCh12.txt): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 46
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 74
+[21-Oct-2014 21:49:54 America/Denver] PHP Notice:  Undefined variable: completeDr in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:49:54 America/Denver] PHP Warning:  rename(/akCh12.txt,/akCh12.txt): No such file or directory in /home2/victotv6/public_html/arabic/dictionary/import_set.php on line 24
+[21-Oct-2014 21:51:39 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[21-Oct-2014 21:52:53 America/Denver] PHP Notice:  Undefined index: DOCUMENT_ROOT in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 2
+[21-Oct-2014 21:52:53 America/Denver] PHP Warning:  require_once(/inc/config.php): failed to open stream: No such file or directory in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 2
+[21-Oct-2014 21:52:53 America/Denver] PHP Fatal error:  require_once(): Failed opening required '/inc/config.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 2
+[21-Oct-2014 21:53:40 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[22-Oct-2014 15:30:47 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/victotv6/public_html/arabic/dictionary/dictionary.php on line 8
+[22-Oct-2014 15:30:47 America/Denver] PHP Notice:  Undefined offset: 3 in /home2/victotv6/public_html/arabic/dictionary/dictionary.php on line 29
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:33:55 America/Denver] PHP Warning:  split(): REG_EMPTY in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 60
+[22-Oct-2014 15:37:30 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[22-Oct-2014 15:58:15 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[27-Oct-2014 10:59:26 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/victotv6/public_html/arabic/dictionary/search.php on line 3
+[27-Oct-2014 10:59:27 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/victotv6/public_html/arabic/dictionary/search.php on line 3
+[27-Oct-2014 10:59:28 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home2/victotv6/public_html/arabic/dictionary/search.php on line 3
+[27-Oct-2014 11:24:21 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'victotv6_arabic.Terms' doesn't exist' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:228
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(228): PDOStatement->execute(Array)
+#1 /home2/victotv6/public_html/arabic/dictionary/search.php(6): searchDictionary('eat')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 228
+[27-Oct-2014 11:29:14 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''%eat%' OR arabicLIKE '%eat%' OR arabic_uvLIKE '%eat%' OR arabic_uvaLIKE '%eat%'' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:229
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(229): PDOStatement->execute(Array)
+#1 /home2/victotv6/public_html/arabic/dictionary/search.php(6): searchDictionary('eat')
+#2 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 229
+[29-Oct-2014 18:44:40 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[29-Oct-2014 18:44:40 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Praise be to God")", "الحمد لله", "الحمد لله", "الحمد لل' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:137
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(137): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(197): getOrCreateTermID(Array)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 137
+[29-Oct-2014 18:56:13 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[29-Oct-2014 18:56:13 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Praise be to God")", "الحمد لله", "الحمد لله", "الحمد لل' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:137
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(137): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(197): getOrCreateTermID(Array)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 137
+[29-Oct-2014 18:56:24 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[29-Oct-2014 18:56:24 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Praise be to God")", "الحمد لله", "الحمد لله", "الحمد لل' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:137
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(137): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(197): getOrCreateTermID(Array)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 137
+[29-Oct-2014 18:56:40 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[29-Oct-2014 18:56:40 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Praise be to God")", "الحمد لله", "الحمد لله", "الحمد لل' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:137
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(137): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(197): getOrCreateTermID(Array)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 137
+[29-Oct-2014 18:56:41 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[29-Oct-2014 18:56:41 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Praise be to God")", "الحمد لله", "الحمد لله", "الحمد لل' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:137
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(137): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(197): getOrCreateTermID(Array)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 137
+[29-Oct-2014 18:57:24 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[29-Oct-2014 18:57:24 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Praise be to God")", "الحمد لله", "الحمد لله", "الحمد لل' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:137
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(137): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(197): getOrCreateTermID(Array)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 137
+[29-Oct-2014 19:01:36 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[29-Oct-2014 19:01:36 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'guys"", "شباب", "شباب", "شباب", "شباب")' at line 1' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:137
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(137): PDO->exec('INSERT INTO Ter...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(197): getOrCreateTermID(Array)
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 137
+[29-Oct-2014 19:12:54 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 10:54:57 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 11:11:14 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 11:11:14 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`victotv6_arabic`.`Category_has_TermSet`, CONSTRAINT `fk_Category_has_TermSet_TermSet1` FOREIGN KEY (`TermSet_id`) REFERENCES `TermSet` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:190
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(190): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(199): createCategorySetLink('3', '4')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 190
+[15-Nov-2014 11:11:26 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 11:11:26 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`victotv6_arabic`.`Category_has_TermSet`, CONSTRAINT `fk_Category_has_TermSet_TermSet1` FOREIGN KEY (`TermSet_id`) REFERENCES `TermSet` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:190
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(190): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(199): createCategorySetLink('3', '4')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 190
+[15-Nov-2014 11:11:46 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 11:11:46 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`victotv6_arabic`.`Category_has_TermSet`, CONSTRAINT `fk_Category_has_TermSet_TermSet1` FOREIGN KEY (`TermSet_id`) REFERENCES `TermSet` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:190
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(190): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(199): createCategorySetLink('3', '4')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 190
+[15-Nov-2014 11:13:20 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 11:13:20 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`victotv6_arabic`.`Category_has_TermSet`, CONSTRAINT `fk_Category_has_TermSet_TermSet1` FOREIGN KEY (`TermSet_id`) REFERENCES `TermSet` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:190
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(190): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(199): createCategorySetLink('3', '4')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 190
+[15-Nov-2014 11:14:37 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 11:14:37 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`victotv6_arabic`.`Category_has_TermSet`, CONSTRAINT `fk_Category_has_TermSet_TermSet1` FOREIGN KEY (`TermSet_id`) REFERENCES `TermSet` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:190
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(190): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(199): createCategorySetLink('1', '2')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 190
+[15-Nov-2014 11:17:09 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80
+[15-Nov-2014 11:17:09 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`victotv6_arabic`.`Category_has_TermSet`, CONSTRAINT `fk_Category_has_TermSet_TermSet1` FOREIGN KEY (`TermSet_id`) REFERENCES `TermSet` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php:190
+Stack trace:
+#0 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(190): PDO->exec('INSERT INTO Cat...')
+#1 /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php(199): createCategorySetLink('3', '4')
+#2 /home2/victotv6/public_html/arabic/dictionary/import_set.php(26): importSet(Array)
+#3 {main}
+  thrown in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 190
+[15-Nov-2014 11:19:02 America/Denver] PHP Notice:  Undefined offset: 1 in /home2/victotv6/public_html/arabic/dictionary/lib/dictionary_manager.php on line 80

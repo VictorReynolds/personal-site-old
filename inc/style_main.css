@@ -1,0 +1,129 @@
+html, html * {
+  margin: 0;
+  padding: 0;
+}
+html {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
+#wrapper_main {
+  min-height:100%;
+  position:relative;
+}
+#header {
+}
+#content {
+  padding-bottom:30px;   /* Height of the footer element */
+}
+#footer {
+  width:100%;
+  height:30px;
+  position:absolute;
+  left:0;
+}
+
+body {
+  background-color: rgb(124, 169, 146);
+  color: rgb(255, 245, 240);
+  font-family: Oswald, sans-serif;
+  height: 100%;
+}
+
+.img-body-center {
+  margin-top: 100px;
+  display: block;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+
+#title_contents h1, header h1 {
+  font-family: Audiowide, sans-serif;
+  font-size: 26pt;
+}
+
+#body_contents, #title_contents {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#body_contents {
+  padding-bottom: 30px;
+}
+
+footer {
+  line-height: 30px;
+  text-align: center;
+}
+
+p {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+header h1 {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+#nav_container {
+  position: fixed;
+  margin: 0px;
+  padding: 0px;
+  top: 10px;
+  left: 0px;
+  list-style: none;
+  z-index:9999;
+}
+
+#nav_container > li {
+ width: 100px;
+ text-align: center;
+}
+  
+#nav_container > li > a {
+  color: rgb(90, 116, 188);
+  font-family: Righteous, sans-serif;
+  font-size: 18pt;
+  text-decoration: none;
+  display: block;
+    margin-left: -2px;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    background-color:#CFCFCF;
+    background-repeat:no-repeat;
+    background-position:center center;
+    border:1px solid #AFAFAF;
+  opacity: 0.6;
+ }
+
+#nav_container ul {
+  list-style: none;
+  display: block;
+  position: absolute;
+  left: inherit;
+}
+
+#nav_container ul li {
+  text-align: left;
+}
+
+#nav_container ul a {
+  color: rgb(90, 116, 188);
+  text-decoration: none;
+  display: block;
+}
+
+#nav_container li.active a {
+  color: rgb(255, 245, 240);
+  cursor: default;
+}
+ 
+#nav_container a::visited {
+  color: inherit;
+  }
