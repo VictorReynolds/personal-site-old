@@ -1,9 +1,0 @@
-<?phpf
-	if (empty($_POST) || (array_key_exists("searchstring", $_POST) && trim($_POST["searchstring"]) != ""))
-	{
-		echo("There is no searchstring value!");
-	}
-	else
-	{
-	}
-?>
